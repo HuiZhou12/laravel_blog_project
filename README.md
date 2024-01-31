@@ -7,9 +7,9 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravel
+## 关于 Laravel
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+Laravel 是一个具有表达力和优雅语法的 web 应用框架。我们相信开发必须是一种愉快和富有创造力的体验，才能真正令人满足。Laravel 通过简化许多 web 项目中常用的任务，来消除开发的痛苦，例如：
 
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
 - [Powerful dependency injection container](https://laravel.com/docs/container).
@@ -19,19 +19,19 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 - [Robust background job processing](https://laravel.com/docs/queues).
 - [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+Laravel 是易于访问、强大的，提供了构建大型、健壮应用所需的工具。
 
-## Learning Laravel
+## 学习 Laravel
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+Laravel 拥有所有现代 web 应用框架中最广泛和最完善的 [documentation](https://laravel.com/docs) 和视频教程库，让您轻松上手该框架。
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+如果您不想阅读，Laracasts 可以帮助您。Laracasts 包含了超过 1500 个视频教程，涵盖了 Laravel、现代 PHP、单元测试和 JavaScript 等一系列主题。通过深入我们的综合视频库，提升您的技能。
 
-## Laravel Sponsors
+## Laravel 赞助商
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+我们要感谢以下赞助商为 Laravel 开发提供资金支持。如果您有兴趣成为赞助商，请访问[Patreon page](https://patreon.com/taylorotwell)页面.
 
-### Premium Partners
+### 高级合作伙伴
 
 - **[Vehikl](https://vehikl.com/)**
 - **[Tighten Co.](https://tighten.co)**
@@ -47,18 +47,18 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 - **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
 - **[Lendio](https://lendio.com)**
 
-## Contributing
+## 贡献
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+感谢您考虑为 Laravel 框架做出贡献！贡献指南可以在 [Laravel documentation](https://laravel.com/docs/contributions)中找到.
 
-## Code of Conduct
+## 行为准则
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+为了确保 Laravel 社区对所有人都是友好的，请阅读并遵守 [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
 
-## Security Vulnerabilities
+##安全漏洞
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+如果您发现 Laravel 中存在安全漏洞，请通过 taylor@laravel.com 向 Taylor Otwell 发送电子邮件。所有安全漏洞将得到及时解决。
 
-## License
+## 许可证
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+Laravel 框架是基于 MIT 许可证 的开源软件。
